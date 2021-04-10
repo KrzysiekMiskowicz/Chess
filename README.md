@@ -1,1 +1,1 @@
-# Chess
+Projkt szachów wykonany w LabVIEW.
